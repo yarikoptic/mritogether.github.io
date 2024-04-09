@@ -1,6 +1,8 @@
 ---
 title: Program Book
 layout: default
+description: Program
+year: 2024
 ---
 <!-- 
 ## Day 1: December 6th
