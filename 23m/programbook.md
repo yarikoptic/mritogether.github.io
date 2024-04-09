@@ -1,6 +1,7 @@
 ---
 title: Program Book
 layout: default
+year: 2023
 ---
 
 ## Day 1: December 6th

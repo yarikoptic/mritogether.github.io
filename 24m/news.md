@@ -1,6 +1,8 @@
 ---
 title: News from MRI Together
 layout: default
+description: News for MRI Together 2024
+year: 2024
 ---
 
 ### MRI Together activities at ESMRMB 2023
