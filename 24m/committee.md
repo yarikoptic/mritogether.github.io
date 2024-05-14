@@ -21,37 +21,36 @@ year: 2024
 </style>
 <image style="overflow:visible;" width="1886" height="1018" xlink:href="images/committee/committee_24.png"  transform="matrix(0.5 0 0 0.5 -30 100)">
 </image>
-
-<!-- <a xlink:href="https://scholar.google.com/citations?user=xk_DKEYAAAAJ&hl=en" >
-    <text transform="matrix(1 0 0 1 305 470)" class="st1 st2" font-weight="bold">Bin Lu </text>
-    <text transform="matrix(1 0 0 1 380 470)" class="st1 st3" font-weight="bold">(he/him)</text>
-    <text transform="matrix(1 0 0 1 315 485)" class="st1 st2" font-weight="bold">Chinese Academy of Sciences (CHN)</text>
+<a xlink:href="https://scholar.google.com/citations?user=xk_DKEYAAAAJ&hl=en" >
+    <text transform="matrix(1 0 0 1 735 295)" class="st1 st2" font-weight="bold">Bin Lu </text>
+    <text transform="matrix(1 0 0 1 780 295)" class="st1 st3" font-weight="bold">(he/him)</text>
+    <text transform="matrix(1 0 0 1 675 310)" class="st1 st2" font-weight="bold">Chinese Academy of Sciences (CHN)</text>
 </a>
 <a xlink:href="https://www.linkedin.com/in/cristian-montalba-zalaquett/" >
-    <text transform="matrix(1 0 0 1 436 275)" class="st1 st2" font-weight="bold">Cristian Montalba </text>
-    <text transform="matrix(1 0 0 1 540 275)" class="st1 st3" font-weight="bold">(he/him; co-chair)</text>
-    <text transform="matrix(1 0 0 1 418 290)" class="st1 st2" font-weight="bold">Pontificia Universidad Católica de Chile (CHL)</text>
+    <text transform="matrix(1 0 0 1 250 565)" class="st1 st2" font-weight="bold">Cristian Montalba </text>
+    <text transform="matrix(1 0 0 1 350 565)" class="st1 st3" font-weight="bold">(he/him; co-chair)</text>
+    <text transform="matrix(1 0 0 1 230 580)" class="st1 st2" font-weight="bold">Pontificia Universidad Católica de Chile (CHL)</text>
 </a>
 <a xlink:href="https://www.linkedin.com/in/fernanda-ribeiro-849a09102/" >
-    <text transform="matrix(1 0 0 1 238 250)" class="st1 st2" font-weight="bold">Fernanda Ribeiro </text>
-    <text transform="matrix(1 0 0 1 330 250)" class="st1 st3" font-weight="bold">(she/her; co-chair)</text>
-    <text transform="matrix(1 0 0 1 225 265)" class="st1 st2" font-weight="bold">University of Queensland (AU)</text>
+    <text transform="matrix(1 0 0 1 660 580)" class="st1 st2" font-weight="bold">Fernanda Ribeiro </text>
+    <text transform="matrix(1 0 0 1 755 580)" class="st1 st3" font-weight="bold">(she/her; co-chair)</text>
+    <text transform="matrix(1 0 0 1 670 595)" class="st1 st2" font-weight="bold">University of Queensland (AU)</text>
 </a>
 <a xlink:href="https://wp.unil.ch/cvmr/jana-zhang/" >
-    <text transform="matrix(1 0 0 1 44 410)" class="st1 st2" font-weight="bold">Jana Zhang </text>
-    <text transform="matrix(1 0 0 1 140 410)" class="st1 st3" font-weight="bold">(she/her)</text>
-    <text transform="matrix(1 0 0 1 46 425)" class="st1 st2" font-weight="bold">Lausanne University Hospital (CHE)</text>
+    <text transform="matrix(1 0 0 1 400 200)" class="st1 st2" font-weight="bold">Jana Zhang </text>
+    <text transform="matrix(1 0 0 1 470 200)" class="st1 st3" font-weight="bold">(she/her)</text>
+    <text transform="matrix(1 0 0 1 400 215)" class="st1 st2" font-weight="bold">Lausanne University Hospital (CHE)</text>
 </a>
 <a xlink:href="https://www.linkedin.com/in/lars-kasper-852ba781/" >
-    <text transform="matrix(1 0 0 1 580 580)" class="st1 st2" font-weight="bold">Lars Kasper </text>
-    <text transform="matrix(1 0 0 1 675 580)" class="st1 st3" font-weight="bold">(he/him; co-chair)</text>
-    <text transform="matrix(1 0 0 1 572 595)" class="st1 st2" font-weight="bold">Toronto NeuroImaging Facility (CAN)</text>
+    <text transform="matrix(1 0 0 1 300 400)" class="st1 st2" font-weight="bold">Lars Kasper </text>
+    <text transform="matrix(1 0 0 1 370 400)" class="st1 st3" font-weight="bold">(he/him; co-chair)</text>
+    <text transform="matrix(1 0 0 1 280 415)" class="st1 st2" font-weight="bold">Toronto NeuroImaging Facility (CAN)</text>
 </a>
 <a xlink:href="https://www.linkedin.com/in/peter-niedbalski-379121a5/" >
-    <text transform="matrix(1 0 0 1 698 275)" class="st1 st2" font-weight="bold">Peter Niedbalski </text>
-    <text transform="matrix(1 0 0 1 785 275)" class="st1 st3" font-weight="bold">(he/him)</text>
-    <text transform="matrix(1 0 0 1 672 290)" class="st1 st2" font-weight="bold">University of Kansas (USA)</text>
-</a> -->
+    <text transform="matrix(1 0 0 1 65 450)" class="st1 st2" font-weight="bold">Peter Niedbalski </text>
+    <text transform="matrix(1 0 0 1 160 450)" class="st1 st3" font-weight="bold">(he/him)</text>
+    <text transform="matrix(1 0 0 1 50 465)" class="st1 st2" font-weight="bold">University of Kansas (USA)</text>
+</a>
 
 </svg>
 </svg>
