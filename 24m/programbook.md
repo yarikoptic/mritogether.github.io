@@ -8,18 +8,14 @@ year: 2024
 # Our global ESMRMB workshop, MRI Together, is returning in December 2024 for its fourth edition!
 
 **MRITogether** is a global online event on open, reproducible, and inclusive MRI research. The meeting hosts lectures, panel discussions, and hands-on workshops by prominent speakers from industry and academia. Topics range from statistical tools for reproducible research to open hardware and software practices, data sharing policies, open publication, obstacles and best practices in sustainable open MRI, as well as navigating funding and job market landscapes.
-
 <br>
 
 This year’s edition will follow the theme of **“Staying Together”**, i.e., how to accomplish long-term support and development of Open MRI projects. We will learn from successful projects, how the initial enthusiasm and excitement about open MRI can be transformed into a sustainable workflow and what the funding landscape looks like for open-source projects. But, knowing that not all projects are fit for open science, we will also have an honest look at why people decide (not) to pursue open science in MRI and want to invite stakeholders with diverse opinions from research, industry, publishers, and regulatory bodies. We hope to inspire researchers already immersed in open science practices to become part of the broader open science community, and we want to contribute with guidelines to open science in emerging MRI Applications. 
-
 <br>
 
-[!NOTE]  
-We are actively looking for a diverse line-up of session speakers and moderators. Please reach out to mritogether@esmrmb.org if you are interested in contributing or would like to suggest a potential speaker we should approach. 
+**We are actively looking for a diverse line-up of session speakers and moderators. Please reach out to mritogether@esmrmb.org if you are interested in contributing or would like to suggest a potential speaker we should approach.** 
 
 Here are some of our tentative sessions:
-
 <br>
 
 ## Software development
@@ -31,6 +27,7 @@ How can I find funds to support my open-source project? To answer this and other
 
 ### At second sight - open science projects that succeeded at their own pace
 Despite us giving all our heart, the MR community might not meet our beautifully crafted open science contribution with love at first sight. In this session, we want to hear from developers how they persevered, for example after a slow initial uptake of their contribution, and how they built a user community around it that enabled long-term success and continued development and support.
+<br>
 
 ## Education and training
 ### Bridging the educational gap: How to effectively share knowledge to build an MR scanner
@@ -41,6 +38,7 @@ Much of the work toward open and reproducible science has been spearheaded by re
 
 ### Reproducibility crisis revisited: towards replicable and generalizable research
 Description: In the realm of MRI, particularly in neuroimaging, the reproducibility crisis has emerged as a pivotal challenge, casting significant doubts on the reliability of many scientific findings. This session aims to delve deep into the critical issues surrounding replication failures in brain imaging studies and explore strategic pathways towards enhancing the robustness and validity of research outcomes.
+<br>
 
 ## Data and Code sharing
 ### Are FAIR principles fair enough? - Standards for sharing data and code
@@ -48,6 +46,7 @@ These days, it's common practice to conduct research using code sharing, repeata
 
 ### Giving up consciously - when to not pursue an open science solution (any more)
 Does every MR project have to be open? Is every piece of code or hardware a user-friendly tool? Here, we want to hear from people who consciously decided not to go the open path, commercialized a contribution via trade secrets, proprietary licensing and patenting, or maybe just gave up on abandoning an open-source project after some time.
+<br>
 
 ## Live demos and interactive sessions
 ### Cutting-edge MRI toolbox exhibition
