@@ -13,7 +13,7 @@ year: 2024
 This year’s edition will follow the theme of **“Staying Together”**, i.e., how to accomplish long-term support and development of Open MRI projects. We will learn from successful projects, how the initial enthusiasm and excitement about open MRI can be transformed into a sustainable workflow and what the funding landscape looks like for open-source projects. But, knowing that not all projects are fit for open science, we will also have an honest look at why people decide (not) to pursue open science in MRI and want to invite stakeholders with diverse opinions from research, industry, publishers, and regulatory bodies. We hope to inspire researchers already immersed in open science practices to become part of the broader open science community, and we want to contribute with guidelines to open science in emerging MRI Applications. 
 <br>
 
-**We are actively looking for a diverse line-up of session speakers and moderators. Please reach out to mritogether@esmrmb.org if you are interested in contributing or would like to suggest a potential speaker we should approach.** 
+**We are actively looking for a diverse line-up of session speakers and moderators. Please reach out to <mritogether@esmrmb.org> if you are interested in contributing or would like to suggest a potential speaker we should approach.** 
 
 Here are some of our tentative sessions:
 <br>
