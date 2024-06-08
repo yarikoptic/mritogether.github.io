@@ -45,7 +45,12 @@ Description: In the realm of MRI, particularly in neuroimaging, the reproducibil
 These days, it's common practice to conduct research using code sharing, repeatability, and data sharing via repositories. These approaches could provide some difficulties, though. Patient data sharing repositories may differ due to variations in country ethical legislation. Furthermore, some research labs don't have a code repository culture. In this session we will review some different data sharing repositories projects, legal aspects and the importance of a culture of code sharing. 
 
 ### Giving up consciously - when to not pursue an open science solution (any more)
-Does every MR project have to be open? Is every piece of code or hardware a user-friendly tool? Here, we want to hear from people who consciously decided not to go the open path, commercialized a contribution via trade secrets, proprietary licensing and patenting, or maybe just gave up on abandoning an open-source project after some time.
+Does every MR project have to be open? Is every piece of code or hardware a user-friendly tool? Here, we want to hear from people who consciously decided not to go the open path, i.e., commercialized a contribution via trade secrets, proprietary licensing and patenting, or maybe just gave up by abandoning an open-source project after some time.
+<br>
+
+## Culture
+### Sustainable Volunteering: How to stay happy, healthy, and productive in Open Science
+We often commit our time to Open MRI projects with an altruistic streak: the work is voluntary and based on our self-motivation. However, people in open science projects have a day job with other and higher priorities, and because the incentive structure in their career domain doesn’t align with sustainability and collaboration, progress in open science projects is often slow. Here, we want to learn from open science experts as well as other fields of volunteering how to navigate these sometimes conflicting demands and stay happy, healthy and productive in the process.
 <br>
 
 ## Live demos and interactive sessions
