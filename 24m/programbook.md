@@ -37,7 +37,7 @@ This session is about how we can share knowledge about MRI scanners openly, incl
 Much of the work toward open and reproducible science has been spearheaded by researchers working in the brain space. Newer MRI applications, such as body and hyperpolarized MRI are less well represented in the open MRI community. In this session, we will discuss how lessons learned from open and reproducible brain MRI can be adopted in other areas.
 
 ### Reproducibility crisis revisited: towards replicable and generalizable research
-Description: In the realm of MRI, particularly in neuroimaging, the reproducibility crisis has emerged as a pivotal challenge, casting significant doubts on the reliability of many scientific findings. This session aims to delve deep into the critical issues surrounding replication failures in brain imaging studies and explore strategic pathways towards enhancing the robustness and validity of research outcomes.
+In the realm of MRI, particularly in neuroimaging, the reproducibility crisis has emerged as a pivotal challenge, casting significant doubts on the reliability of many scientific findings. This session aims to delve deep into the critical issues surrounding replication failures in brain imaging studies and explore strategic pathways towards enhancing the robustness and validity of research outcomes.
 <br>
 
 ## Data and Code sharing
@@ -49,6 +49,9 @@ Does every MR project have to be open? Is every piece of code or hardware a user
 <br>
 
 ## Culture
+### Transferable open MRI skills: from academia to industry
+This session will feature distinguished speakers who have successfully transitioned between academia and industry. They will share their insights on career decisions and highlight how their expertise in MRI research has been pivotal in their professional journeys. 
+
 ### Sustainable Volunteering: How to stay happy, healthy, and productive in Open Science
 We often commit our time to Open MRI projects with an altruistic streak: the work is voluntary and based on our self-motivation. However, people in open science projects have a day job with other and higher priorities, and because the incentive structure in their career domain doesn’t align with sustainability and collaboration, progress in open science projects is often slow. Here, we want to learn from open science experts as well as other fields of volunteering how to navigate these sometimes conflicting demands and stay happy, healthy and productive in the process.
 <br>
