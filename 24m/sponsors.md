@@ -5,11 +5,11 @@ layout: default
 description: Workshop sponsors, external advisors, volunteers, and supporting researcher
 year: 2024
 --- 
-<!-- We gratefully acknowledge the following sponsors that make **#MRITogether 2023** happen. -->
+We gratefully acknowledge the following sponsors that make **#MRITogether 2023** happen.
 
 To learn more about ways that _you_ can support the event, please [contact us](mailto:mritogether@esmrmb.org).
 
-## Platinum Sponsors
+<!-- ## Platinum Sponsors -->
 <!-- <div id="grid-containter">
         <div class="card-grid">
           <img class="front_platinum" src="images/sponsors/HQ_Imaging.png" alt="HQ Imaging Logo">
@@ -54,6 +54,8 @@ To learn more about ways that _you_ can support the event, please [contact us](m
     
   });
 </script> -->
+
+[![Deepspin logo](images/sponsors/DEEPSPIN_logo.png){:.sponsor_gold}](https://www.deepspin.io/)
 
 <!-- [![CMRI logo](images/sponsors/CMRI-logo-01.png){:.sponsor_gold}](//qmri.com)
 [![Siemens logo](images/sponsors/Siemens_logo-01.png){:.sponsor_gold}](https://www.siemens-healthineers.com/)
