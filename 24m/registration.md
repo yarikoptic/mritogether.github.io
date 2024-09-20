@@ -34,7 +34,7 @@ Detailed information about how to attend the workshop will be provided to the re
         widgetType: 'checkout',
         eventId: '750597355897',
         modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-750597355897',
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-1024428261507',
         onOrderComplete: exampleCallback
     });
 </script>
