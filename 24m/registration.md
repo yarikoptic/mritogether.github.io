@@ -18,7 +18,7 @@ By participating in [**#MRITogether24**](https://twitter.com/hashtag/MRITogether
 <!-- You can customize this button any way you like -->
 
 <div style="text-align: center; width; 100%">
-<button id="eventbrite-widget-modal-trigger-750597355897" type="button" class="shadow_button">Free Registration</button>
+<button id="eventbrite-widget-modal-trigger-1024428261507" type="button" class="shadow_button">Free Registration</button>
 </div>
 
 Detailed information about how to attend the workshop will be provided to the registrants closer to the date.
@@ -32,7 +32,7 @@ Detailed information about how to attend the workshop will be provided to the re
 
     window.EBWidgets.createWidget({
         widgetType: 'checkout',
-        eventId: '750597355897',
+        eventId: '1024428261507',
         modal: true,
         modalTriggerElementId: 'eventbrite-widget-modal-trigger-1024428261507',
         onOrderComplete: exampleCallback
