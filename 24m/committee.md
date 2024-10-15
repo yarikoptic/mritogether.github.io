@@ -19,7 +19,7 @@ year: 2024
     .st4{fill:none;stroke:#009999;stroke-width:1.5;stroke-miterlimit:10;}
     .st5{fill:#009999;}
 </style>
-<image style="overflow:visible;" width="1886" height="1018" xlink:href="images/committee/committee_24.png"  transform="matrix(0.5 0 0 0.5 -30 100)">
+<image style="overflow:visible;" width="1886" height="1018" xlink:href="images/committee/commitee_24_2.png"  transform="matrix(0.5 0 0 0.5 -30 100)">
 </image>
 <a xlink:href="https://scholar.google.com/citations?user=xk_DKEYAAAAJ&hl=en" >
     <text transform="matrix(1 0 0 1 735 295)" class="st1 st2" font-weight="bold">Bin Lu </text>
@@ -36,10 +36,10 @@ year: 2024
     <text transform="matrix(1 0 0 1 755 580)" class="st1 st3" font-weight="bold">(she/her; co-chair)</text>
     <text transform="matrix(1 0 0 1 670 595)" class="st1 st2" font-weight="bold">University of Queensland (AU)</text>
 </a>
-<a xlink:href="https://wp.unil.ch/cvmr/jana-zhang/" >
-    <text transform="matrix(1 0 0 1 400 200)" class="st1 st2" font-weight="bold">Jana Zhang </text>
-    <text transform="matrix(1 0 0 1 470 200)" class="st1 st3" font-weight="bold">(she/her)</text>
-    <text transform="matrix(1 0 0 1 400 215)" class="st1 st2" font-weight="bold">Lausanne University Hospital (CHE)</text>
+<a xlink:href="https://www.linkedin.com/in/patricia-clement-neuroimaging-researcher/" >
+    <text transform="matrix(1 0 0 1 400 200)" class="st1 st2" font-weight="bold">Patricia Clement </text>
+    <text transform="matrix(1 0 0 1 490 200)" class="st1 st3" font-weight="bold">(she/her)</text>
+    <text transform="matrix(1 0 0 1 400 215)" class="st1 st2" font-weight="bold">Ghent University (BE)</text>
 </a>
 <a xlink:href="https://www.linkedin.com/in/lars-kasper-852ba781/" >
     <text transform="matrix(1 0 0 1 300 400)" class="st1 st2" font-weight="bold">Lars Kasper </text>
@@ -72,8 +72,8 @@ year: 2024
     <td><strong><a href="https://www.linkedin.com/in/fernanda-ribeiro-849a09102/">Fernanda Ribeiro <a style="font-size: smaller;">(she/her; co-chair)</a></a></strong><br> University of Queensland, Australia</td>
 </tr>
 <tr>
-    <td><img src="images/committee/JanaZhang.png" width=150px></td>
-    <td><strong><a href="https://wp.unil.ch/cvmr/jana-zhang/">Jana Zhang <a style="font-size: smaller;">(she/her)</a></a></strong><br> Lausanne University Hospital, Switzerland</td>
+    <td><img src="images/committee/PatriciaClement.png" width=150px></td>
+    <td><strong><a href="https://www.linkedin.com/in/patricia-clement-neuroimaging-researcher/">Patricia Clement <a style="font-size: smaller;">(she/her)</a></a></strong><br> Ghent University, Belgium</td>
 </tr>
 <tr>
     <td><img src="images/committee/LarsKasper.png" width=150px></td>
